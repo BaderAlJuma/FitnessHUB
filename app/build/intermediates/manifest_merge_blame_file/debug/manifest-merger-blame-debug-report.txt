@@ -1,0 +1,177 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.fitnesshubdemo"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/AndroidManifest.xml:6:5-67
+11-->/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/AndroidManifest.xml:6:22-64
+12
+13    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
+14    <!-- <uses-sdk android:minSdkVersion="14" /> -->
+15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+15-->[com.google.firebase:firebase-firestore:21.4.1] /Users/zainabbousakher/.gradle/caches/transforms-2/files-2.1/13154fab687b288ed9aef6894a4a20b6/jetified-firebase-firestore-21.4.1/AndroidManifest.xml:13:5-79
+15-->[com.google.firebase:firebase-firestore:21.4.1] /Users/zainabbousakher/.gradle/caches/transforms-2/files-2.1/13154fab687b288ed9aef6894a4a20b6/jetified-firebase-firestore-21.4.1/AndroidManifest.xml:13:22-76
+16
+17    <application
+17-->/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/AndroidManifest.xml:8:5-32:19
+18        android:allowBackup="true"
+18-->/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/AndroidManifest.xml:9:9-35
+19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+19-->[androidx.core:core:1.1.0] /Users/zainabbousakher/.gradle/caches/transforms-2/files-2.1/f961a727fd6ff1bec6d760c391cc6822/core-1.1.0/AndroidManifest.xml:24:18-86
+20        android:debuggable="true"
+21        android:extractNativeLibs="false"
+22        android:icon="@mipmap/ic_launcher"
+22-->/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/AndroidManifest.xml:10:9-43
+23        android:label="@string/app_name"
+23-->/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/AndroidManifest.xml:11:9-41
+24        android:roundIcon="@mipmap/ic_launcher_round"
+24-->/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/AndroidManifest.xml:12:9-54
+25        android:supportsRtl="true"
+25-->/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/AndroidManifest.xml:13:9-35
+26        android:testOnly="true"
+27        android:theme="@style/AppTheme" >
+27-->/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/AndroidManifest.xml:14:9-40
+28        <activity android:name="com.example.fitnesshubdemo.ViewRecipeDetails" />
+28-->/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/AndroidManifest.xml:16:9-64
+28-->/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/AndroidManifest.xml:16:19-52
+29        <activity android:name="com.example.fitnesshubdemo.SearchRecipeActivity" />
+29-->/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/AndroidManifest.xml:17:9-58
+29-->/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/AndroidManifest.xml:17:19-55
+30        <activity android:name="com.example.fitnesshubdemo.TakingExerciseActivity" />
+30-->/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/AndroidManifest.xml:18:9-60
+30-->/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/AndroidManifest.xml:18:19-57
+31        <activity android:name="com.example.fitnesshubdemo.ExercisesListActivity" />
+31-->/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/AndroidManifest.xml:19:9-59
+31-->/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/AndroidManifest.xml:19:19-56
+32        <activity android:name="com.example.fitnesshubdemo.ViewExerciseActivity" />
+32-->/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/AndroidManifest.xml:20:9-58
+32-->/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/AndroidManifest.xml:20:19-55
+33        <activity android:name="com.example.fitnesshubdemo.ProfileActivity" />
+33-->/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/AndroidManifest.xml:21:9-53
+33-->/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/AndroidManifest.xml:21:19-50
+34        <activity android:name="com.example.fitnesshubdemo.SignupActivity" />
+34-->/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/AndroidManifest.xml:22:9-52
+34-->/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/AndroidManifest.xml:22:19-49
+35        <activity android:name="com.example.fitnesshubdemo.SigninActivity" />
+35-->/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/AndroidManifest.xml:23:9-52
+35-->/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/AndroidManifest.xml:23:19-49
+36        <activity android:name="com.example.fitnesshubdemo.LandingActivity" />
+36-->/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/AndroidManifest.xml:24:9-53
+36-->/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/AndroidManifest.xml:24:19-50
+37        <activity android:name="com.example.fitnesshubdemo.MainActivity" >
+37-->/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/AndroidManifest.xml:25:9-31:20
+37-->/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/AndroidManifest.xml:25:19-47
+38            <intent-filter>
+38-->/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/AndroidManifest.xml:26:13-30:29
+39                <action android:name="android.intent.action.MAIN" />
+39-->/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/AndroidManifest.xml:27:17-69
+39-->/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/AndroidManifest.xml:27:25-66
+40
+41                <category android:name="android.intent.category.LAUNCHER" />
+41-->/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/AndroidManifest.xml:29:17-77
+41-->/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/AndroidManifest.xml:29:27-74
+42            </intent-filter>
+43        </activity>
+44        <activity
+44-->[com.google.firebase:firebase-auth:19.3.0] /Users/zainabbousakher/.gradle/caches/transforms-2/files-2.1/dfe7b3659c61d92bbc3815d5264c7c0d/jetified-firebase-auth-19.3.0/AndroidManifest.xml:24:9-31:50
+45            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
+45-->[com.google.firebase:firebase-auth:19.3.0] /Users/zainabbousakher/.gradle/caches/transforms-2/files-2.1/dfe7b3659c61d92bbc3815d5264c7c0d/jetified-firebase-auth-19.3.0/AndroidManifest.xml:25:13-85
+46            android:excludeFromRecents="true"
+46-->[com.google.firebase:firebase-auth:19.3.0] /Users/zainabbousakher/.gradle/caches/transforms-2/files-2.1/dfe7b3659c61d92bbc3815d5264c7c0d/jetified-firebase-auth-19.3.0/AndroidManifest.xml:26:13-46
+47            android:exported="true"
+47-->[com.google.firebase:firebase-auth:19.3.0] /Users/zainabbousakher/.gradle/caches/transforms-2/files-2.1/dfe7b3659c61d92bbc3815d5264c7c0d/jetified-firebase-auth-19.3.0/AndroidManifest.xml:27:13-36
+48            android:launchMode="singleTask"
+48-->[com.google.firebase:firebase-auth:19.3.0] /Users/zainabbousakher/.gradle/caches/transforms-2/files-2.1/dfe7b3659c61d92bbc3815d5264c7c0d/jetified-firebase-auth-19.3.0/AndroidManifest.xml:28:13-44
+49            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
+49-->[com.google.firebase:firebase-auth:19.3.0] /Users/zainabbousakher/.gradle/caches/transforms-2/files-2.1/dfe7b3659c61d92bbc3815d5264c7c0d/jetified-firebase-auth-19.3.0/AndroidManifest.xml:29:13-102
+50            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+50-->[com.google.firebase:firebase-auth:19.3.0] /Users/zainabbousakher/.gradle/caches/transforms-2/files-2.1/dfe7b3659c61d92bbc3815d5264c7c0d/jetified-firebase-auth-19.3.0/AndroidManifest.xml:30:13-72
+51
+52        <service
+52-->[com.google.firebase:firebase-auth:19.3.0] /Users/zainabbousakher/.gradle/caches/transforms-2/files-2.1/dfe7b3659c61d92bbc3815d5264c7c0d/jetified-firebase-auth-19.3.0/AndroidManifest.xml:33:9-39:19
+53            android:name="com.google.firebase.components.ComponentDiscoveryService"
+53-->[com.google.firebase:firebase-auth:19.3.0] /Users/zainabbousakher/.gradle/caches/transforms-2/files-2.1/dfe7b3659c61d92bbc3815d5264c7c0d/jetified-firebase-auth-19.3.0/AndroidManifest.xml:34:13-84
+54            android:directBootAware="true"
+54-->[com.google.firebase:firebase-common:19.3.0] /Users/zainabbousakher/.gradle/caches/transforms-2/files-2.1/1b23a58bb1c539c2a19df1b0920c32b5/jetified-firebase-common-19.3.0/AndroidManifest.xml:34:13-43
+55            android:exported="false" >
+55-->[com.google.firebase:firebase-auth:19.3.0] /Users/zainabbousakher/.gradle/caches/transforms-2/files-2.1/dfe7b3659c61d92bbc3815d5264c7c0d/jetified-firebase-auth-19.3.0/AndroidManifest.xml:35:13-37
+56            <meta-data
+56-->[com.google.firebase:firebase-auth:19.3.0] /Users/zainabbousakher/.gradle/caches/transforms-2/files-2.1/dfe7b3659c61d92bbc3815d5264c7c0d/jetified-firebase-auth-19.3.0/AndroidManifest.xml:36:13-38:85
+57                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+57-->[com.google.firebase:firebase-auth:19.3.0] /Users/zainabbousakher/.gradle/caches/transforms-2/files-2.1/dfe7b3659c61d92bbc3815d5264c7c0d/jetified-firebase-auth-19.3.0/AndroidManifest.xml:37:17-109
+58                android:value="com.google.firebase.components.ComponentRegistrar" />
+58-->[com.google.firebase:firebase-auth:19.3.0] /Users/zainabbousakher/.gradle/caches/transforms-2/files-2.1/dfe7b3659c61d92bbc3815d5264c7c0d/jetified-firebase-auth-19.3.0/AndroidManifest.xml:38:17-82
+59            <meta-data
+59-->[com.google.firebase:firebase-firestore:21.4.1] /Users/zainabbousakher/.gradle/caches/transforms-2/files-2.1/13154fab687b288ed9aef6894a4a20b6/jetified-firebase-firestore-21.4.1/AndroidManifest.xml:20:13-22:85
+60                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+60-->[com.google.firebase:firebase-firestore:21.4.1] /Users/zainabbousakher/.gradle/caches/transforms-2/files-2.1/13154fab687b288ed9aef6894a4a20b6/jetified-firebase-firestore-21.4.1/AndroidManifest.xml:21:17-111
+61                android:value="com.google.firebase.components.ComponentRegistrar" />
+61-->[com.google.firebase:firebase-firestore:21.4.1] /Users/zainabbousakher/.gradle/caches/transforms-2/files-2.1/13154fab687b288ed9aef6894a4a20b6/jetified-firebase-firestore-21.4.1/AndroidManifest.xml:22:17-82
+62            <meta-data
+62-->[com.google.firebase:firebase-storage:19.1.1] /Users/zainabbousakher/.gradle/caches/transforms-2/files-2.1/8ad4e1ffea3e5c78db0912db37bdac9c/jetified-firebase-storage-19.1.1/AndroidManifest.xml:33:13-35:85
+63                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
+63-->[com.google.firebase:firebase-storage:19.1.1] /Users/zainabbousakher/.gradle/caches/transforms-2/files-2.1/8ad4e1ffea3e5c78db0912db37bdac9c/jetified-firebase-storage-19.1.1/AndroidManifest.xml:34:17-107
+64                android:value="com.google.firebase.components.ComponentRegistrar" />
+64-->[com.google.firebase:firebase-storage:19.1.1] /Users/zainabbousakher/.gradle/caches/transforms-2/files-2.1/8ad4e1ffea3e5c78db0912db37bdac9c/jetified-firebase-storage-19.1.1/AndroidManifest.xml:35:17-82
+65        </service>
+66
+67        <activity
+67-->[com.google.android.gms:play-services-auth:17.0.0] /Users/zainabbousakher/.gradle/caches/transforms-2/files-2.1/5becd67d34fcbceea29c723da507aed6/jetified-play-services-auth-17.0.0/AndroidManifest.xml:23:9-27:75
+68            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+68-->[com.google.android.gms:play-services-auth:17.0.0] /Users/zainabbousakher/.gradle/caches/transforms-2/files-2.1/5becd67d34fcbceea29c723da507aed6/jetified-play-services-auth-17.0.0/AndroidManifest.xml:24:13-93
+69            android:excludeFromRecents="true"
+69-->[com.google.android.gms:play-services-auth:17.0.0] /Users/zainabbousakher/.gradle/caches/transforms-2/files-2.1/5becd67d34fcbceea29c723da507aed6/jetified-play-services-auth-17.0.0/AndroidManifest.xml:25:13-46
+70            android:exported="false"
+70-->[com.google.android.gms:play-services-auth:17.0.0] /Users/zainabbousakher/.gradle/caches/transforms-2/files-2.1/5becd67d34fcbceea29c723da507aed6/jetified-play-services-auth-17.0.0/AndroidManifest.xml:26:13-37
+71            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+71-->[com.google.android.gms:play-services-auth:17.0.0] /Users/zainabbousakher/.gradle/caches/transforms-2/files-2.1/5becd67d34fcbceea29c723da507aed6/jetified-play-services-auth-17.0.0/AndroidManifest.xml:27:13-72
+72        <!--
+73            Service handling Google Sign-In user revocation. For apps that do not integrate with
+74            Google Sign-In, this service will never be started.
+75        -->
+76        <service
+76-->[com.google.android.gms:play-services-auth:17.0.0] /Users/zainabbousakher/.gradle/caches/transforms-2/files-2.1/5becd67d34fcbceea29c723da507aed6/jetified-play-services-auth-17.0.0/AndroidManifest.xml:33:9-36:110
+77            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+77-->[com.google.android.gms:play-services-auth:17.0.0] /Users/zainabbousakher/.gradle/caches/transforms-2/files-2.1/5becd67d34fcbceea29c723da507aed6/jetified-play-services-auth-17.0.0/AndroidManifest.xml:34:13-89
+78            android:exported="true"
+78-->[com.google.android.gms:play-services-auth:17.0.0] /Users/zainabbousakher/.gradle/caches/transforms-2/files-2.1/5becd67d34fcbceea29c723da507aed6/jetified-play-services-auth-17.0.0/AndroidManifest.xml:35:13-36
+79            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" />
+79-->[com.google.android.gms:play-services-auth:17.0.0] /Users/zainabbousakher/.gradle/caches/transforms-2/files-2.1/5becd67d34fcbceea29c723da507aed6/jetified-play-services-auth-17.0.0/AndroidManifest.xml:36:13-107
+80
+81        <activity
+81-->[com.google.android.gms:play-services-base:17.1.0] /Users/zainabbousakher/.gradle/caches/transforms-2/files-2.1/d515fa0142795af05e3369fe0848cba8/jetified-play-services-base-17.1.0/AndroidManifest.xml:23:9-26:75
+82            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+82-->[com.google.android.gms:play-services-base:17.1.0] /Users/zainabbousakher/.gradle/caches/transforms-2/files-2.1/d515fa0142795af05e3369fe0848cba8/jetified-play-services-base-17.1.0/AndroidManifest.xml:24:13-79
+83            android:exported="false"
+83-->[com.google.android.gms:play-services-base:17.1.0] /Users/zainabbousakher/.gradle/caches/transforms-2/files-2.1/d515fa0142795af05e3369fe0848cba8/jetified-play-services-base-17.1.0/AndroidManifest.xml:25:13-37
+84            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+84-->[com.google.android.gms:play-services-base:17.1.0] /Users/zainabbousakher/.gradle/caches/transforms-2/files-2.1/d515fa0142795af05e3369fe0848cba8/jetified-play-services-base-17.1.0/AndroidManifest.xml:26:13-72
+85
+86        <provider
+86-->[com.google.firebase:firebase-common:19.3.0] /Users/zainabbousakher/.gradle/caches/transforms-2/files-2.1/1b23a58bb1c539c2a19df1b0920c32b5/jetified-firebase-common-19.3.0/AndroidManifest.xml:26:9-30:39
+87            android:name="com.google.firebase.provider.FirebaseInitProvider"
+87-->[com.google.firebase:firebase-common:19.3.0] /Users/zainabbousakher/.gradle/caches/transforms-2/files-2.1/1b23a58bb1c539c2a19df1b0920c32b5/jetified-firebase-common-19.3.0/AndroidManifest.xml:27:13-77
+88            android:authorities="com.example.fitnesshubdemo.firebaseinitprovider"
+88-->[com.google.firebase:firebase-common:19.3.0] /Users/zainabbousakher/.gradle/caches/transforms-2/files-2.1/1b23a58bb1c539c2a19df1b0920c32b5/jetified-firebase-common-19.3.0/AndroidManifest.xml:28:13-72
+89            android:exported="false"
+89-->[com.google.firebase:firebase-common:19.3.0] /Users/zainabbousakher/.gradle/caches/transforms-2/files-2.1/1b23a58bb1c539c2a19df1b0920c32b5/jetified-firebase-common-19.3.0/AndroidManifest.xml:29:13-37
+90            android:initOrder="100" />
+90-->[com.google.firebase:firebase-common:19.3.0] /Users/zainabbousakher/.gradle/caches/transforms-2/files-2.1/1b23a58bb1c539c2a19df1b0920c32b5/jetified-firebase-common-19.3.0/AndroidManifest.xml:30:13-36
+91
+92        <meta-data
+92-->[com.google.android.gms:play-services-basement:17.0.0] /Users/zainabbousakher/.gradle/caches/transforms-2/files-2.1/f720b24cc490c109d50c0a0a1e6bf186/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+93            android:name="com.google.android.gms.version"
+93-->[com.google.android.gms:play-services-basement:17.0.0] /Users/zainabbousakher/.gradle/caches/transforms-2/files-2.1/f720b24cc490c109d50c0a0a1e6bf186/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+94            android:value="@integer/google_play_services_version" />
+94-->[com.google.android.gms:play-services-basement:17.0.0] /Users/zainabbousakher/.gradle/caches/transforms-2/files-2.1/f720b24cc490c109d50c0a0a1e6bf186/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+95    </application>
+96
+97</manifest>

@@ -1,0 +1,64 @@
+{
+  "project_info": {
+    "project_number": "594446814316",
+    "firebase_url": "https://fitnesshub-91897.firebaseio.com",
+    "project_id": "fitnesshub-91897",
+    "storage_bucket": "fitnesshub-91897.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594446814316:android:9156f7ab1dd4b5b8ea9c49",
+        "android_client_info": {
+          "package_name": "com.example.fitnesshubdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594446814316-nam3o00eeacvgvlndd3a7g8houl30mf4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fitnesshubdemo",
+            "certificate_hash": "d0896308ff95faa9ff580ac1dd2b4d38a53d44ae"
+          }
+        },
+        {
+          "client_id": "594446814316-7endmp03ufe64lill0f36j3gtbatattc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fitnesshubdemo",
+            "certificate_hash": "ffa2d157a59be8fff494fbef115b9de38b9ee3e2"
+          }
+        },
+        {
+          "client_id": "594446814316-nolmmpv35a8f9vkq3i0ae2cq7v1rovv0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fitnesshubdemo",
+            "certificate_hash": "8bee201432a4964731cdcb5f60403d61d6e34790"
+          }
+        },
+        {
+          "client_id": "594446814316-4j9crsjnf5qan6rha2tmlfgcv2kpbvnm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATTRxqt6OwuhkjMcJ53ReXUzgH6reL388"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594446814316-4j9crsjnf5qan6rha2tmlfgcv2kpbvnm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

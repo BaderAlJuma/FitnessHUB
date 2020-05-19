@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/darkGray"
+    tools:context=".BodyFragment">
+
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <com.example.fitnesshubdemo.bodypart.view.WaveEffectLayout
+            android:id="@+id/container"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:clickable="false"
+            android:paddingLeft="10dp"
+            android:paddingTop="30dp"
+            android:paddingRight="10dp"
+            android:paddingBottom="30dp"
+            android:tag="root">
+
+            <FrameLayout
+                android:id="@+id/body_container"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:tag="root">
+
+            </FrameLayout>
+
+            <com.example.fitnesshubdemo.bodypart.view.AnimatedPathView.AnimatedPathView
+                android:id="@+id/animatedPathView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:clickable="true"
+                android:tag="root"
+                app:pathColor="@color/white"
+                app:pathWidth="1" />
+
+            <FrameLayout
+                android:id="@+id/left_region_layout"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="left"
+                android:orientation="vertical" />
+
+            <FrameLayout
+                android:id="@+id/right_region_layout"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="right"
+                android:orientation="vertical" />
+        </com.example.fitnesshubdemo.bodypart.view.WaveEffectLayout>
+
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/FloatingActionButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="20dp"
+            android:layout_marginBottom="20dp"
+            android:src="@drawable/rotate"
+            app:tint="@android:color/white"
+            android:foregroundTint="@color/white"
+            app:backgroundTint="@color/blueish"
+            app:elevation="0dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</FrameLayout>

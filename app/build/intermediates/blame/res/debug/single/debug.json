@@ -1,0 +1,262 @@
+[
+    {
+        "merged": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/build/intermediates/res/merged/debug/layout_fragment_body.xml.flat",
+        "source": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/res/layout/fragment_body.xml"
+    },
+    {
+        "merged": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_woman_front.png.flat",
+        "source": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/res/mipmap-xxhdpi/woman_front.png"
+    },
+    {
+        "merged": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_man_back.png.flat",
+        "source": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/res/mipmap-xxhdpi/man_back.png"
+    },
+    {
+        "merged": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/build/intermediates/res/merged/debug/drawable_btn_blue_circle_selector.xml.flat",
+        "source": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/res/drawable/btn_blue_circle_selector.xml"
+    },
+    {
+        "merged": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/build/intermediates/res/merged/debug/drawable_landing_page_1.jpg.flat",
+        "source": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/res/drawable/landing_page_1.jpg"
+    },
+    {
+        "merged": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/build/intermediates/res/merged/debug/mipmap-mdpi_icon_man.png.flat",
+        "source": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/res/mipmap-mdpi/icon_man.png"
+    },
+    {
+        "merged": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/build/intermediates/res/merged/debug/mipmap-mdpi_icon_man_pressed.png.flat",
+        "source": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/res/mipmap-mdpi/icon_man_pressed.png"
+    },
+    {
+        "merged": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/build/intermediates/res/merged/debug/animator_body_flip_right_in.xml.flat",
+        "source": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/res/animator/body_flip_right_in.xml"
+    },
+    {
+        "merged": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/build/intermediates/res/merged/debug/layout_row_image.xml.flat",
+        "source": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/res/layout/row_image.xml"
+    },
+    {
+        "merged": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/build/intermediates/res/merged/debug/layout_activity_taking_exercise.xml.flat",
+        "source": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/res/layout/activity_taking_exercise.xml"
+    },
+    {
+        "merged": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/build/intermediates/res/merged/debug/animator_body_flip_right_out.xml.flat",
+        "source": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/res/animator/body_flip_right_out.xml"
+    },
+    {
+        "merged": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/build/intermediates/res/merged/debug/layout_activity_landing.xml.flat",
+        "source": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/res/layout/activity_landing.xml"
+    },
+    {
+        "merged": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/build/intermediates/res/merged/debug/layout_fragment_recipe.xml.flat",
+        "source": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/res/layout/fragment_recipe.xml"
+    },
+    {
+        "merged": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/build/intermediates/res/merged/debug/layout_fragment_body_front.xml.flat",
+        "source": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/res/layout/fragment_body_front.xml"
+    },
+    {
+        "merged": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_woman_back.png.flat",
+        "source": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/res/mipmap-xxhdpi/woman_back.png"
+    },
+    {
+        "merged": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/build/intermediates/res/merged/debug/layout_pop_up_workout_take_view.xml.flat",
+        "source": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/res/layout/pop_up_workout_take_view.xml"
+    },
+    {
+        "merged": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/build/intermediates/res/merged/debug/drawable_search.png.flat",
+        "source": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/res/drawable/search.png"
+    },
+    {
+        "merged": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/build/intermediates/res/merged/debug/layout_activity_search_recipe.xml.flat",
+        "source": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/res/layout/activity_search_recipe.xml"
+    },
+    {
+        "merged": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/build/intermediates/res/merged/debug/drawable_food.png.flat",
+        "source": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/res/drawable/food.png"
+    },
+    {
+        "merged": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/build/intermediates/res/merged/debug/layout_fragment_body_back.xml.flat",
+        "source": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/res/layout/fragment_body_back.xml"
+    },
+    {
+        "merged": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/build/intermediates/res/merged/debug/menu_profile_menu.xml.flat",
+        "source": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/res/menu/profile_menu.xml"
+    },
+    {
+        "merged": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/build/intermediates/res/merged/debug/drawable_nutrition_menu.xml.flat",
+        "source": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/res/drawable/nutrition_menu.xml"
+    },
+    {
+        "merged": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/build/intermediates/res/merged/debug/layout_activity_view_recipe_details.xml.flat",
+        "source": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/res/layout/activity_view_recipe_details.xml"
+    },
+    {
+        "merged": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/build/intermediates/res/merged/debug/drawable_body_rect_selector.xml.flat",
+        "source": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/res/drawable/body_rect_selector.xml"
+    },
+    {
+        "merged": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/build/intermediates/res/merged/debug/layout_region_item.xml.flat",
+        "source": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/res/layout/region_item.xml"
+    },
+    {
+        "merged": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/build/intermediates/res/merged/debug/mipmap-mdpi_icon_woman_pressed.png.flat",
+        "source": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/res/mipmap-mdpi/icon_woman_pressed.png"
+    },
+    {
+        "merged": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/build/intermediates/res/merged/debug/layout_pop_up_take_food.xml.flat",
+        "source": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/res/layout/pop_up_take_food.xml"
+    },
+    {
+        "merged": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/build/intermediates/res/merged/debug/drawable_plus.png.flat",
+        "source": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/res/drawable/plus.png"
+    },
+    {
+        "merged": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/build/intermediates/res/merged/debug/color_bottom_nav_bar_colors.xml.flat",
+        "source": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/res/color/bottom_nav_bar_colors.xml"
+    },
+    {
+        "merged": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/build/intermediates/res/merged/debug/drawable_generate.png.flat",
+        "source": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/res/drawable/generate.png"
+    },
+    {
+        "merged": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/build/intermediates/res/merged/debug/layout_fragment_landing_page_image.xml.flat",
+        "source": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/res/layout/fragment_landing_page_image.xml"
+    },
+    {
+        "merged": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/build/intermediates/res/merged/debug/animator_body_flip_left_out.xml.flat",
+        "source": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/res/animator/body_flip_left_out.xml"
+    },
+    {
+        "merged": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/build/intermediates/res/merged/debug/layout_row_search_recipe.xml.flat",
+        "source": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/res/layout/row_search_recipe.xml"
+    },
+    {
+        "merged": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/build/intermediates/res/merged/debug/layout_activity_signup.xml.flat",
+        "source": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/res/layout/activity_signup.xml"
+    },
+    {
+        "merged": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/build/intermediates/res/merged/debug/mipmap-mdpi_icon_woman.png.flat",
+        "source": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/res/mipmap-mdpi/icon_woman.png"
+    },
+    {
+        "merged": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/build/intermediates/res/merged/debug/layout_row_image_and_name.xml.flat",
+        "source": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/res/layout/row_image_and_name.xml"
+    },
+    {
+        "merged": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/build/intermediates/res/merged/debug/layout_row_recipe.xml.flat",
+        "source": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/res/layout/row_recipe.xml"
+    },
+    {
+        "merged": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/build/intermediates/res/merged/debug/layout_activity_view_exercise.xml.flat",
+        "source": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/res/layout/activity_view_exercise.xml"
+    },
+    {
+        "merged": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/build/intermediates/res/merged/debug/layout_activity_signin.xml.flat",
+        "source": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/res/layout/activity_signin.xml"
+    },
+    {
+        "merged": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_man_front.png.flat",
+        "source": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/res/mipmap-xxhdpi/man_front.png"
+    },
+    {
+        "merged": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/build/intermediates/res/merged/debug/drawable_exercises_menu.png.flat",
+        "source": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/res/drawable/exercises_menu.png"
+    },
+    {
+        "merged": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/build/intermediates/res/merged/debug/animator_body_flip_left_in.xml.flat",
+        "source": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/res/animator/body_flip_left_in.xml"
+    },
+    {
+        "merged": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/build/intermediates/res/merged/debug/menu_main_menu.xml.flat",
+        "source": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/res/menu/main_menu.xml"
+    },
+    {
+        "merged": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/build/intermediates/res/merged/debug/layout_activity_profile.xml.flat",
+        "source": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/res/layout/activity_profile.xml"
+    },
+    {
+        "merged": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/build/intermediates/res/merged/debug/drawable_round_button.xml.flat",
+        "source": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/res/drawable/round_button.xml"
+    },
+    {
+        "merged": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/build/intermediates/res/merged/debug/drawable_avatar.png.flat",
+        "source": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/res/drawable/avatar.png"
+    },
+    {
+        "merged": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/build/intermediates/res/merged/debug/layout_activity_exercises_list.xml.flat",
+        "source": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/res/layout/activity_exercises_list.xml"
+    },
+    {
+        "merged": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/build/intermediates/res/merged/debug/layout_fragment_exercises_log.xml.flat",
+        "source": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/res/layout/fragment_exercises_log.xml"
+    },
+    {
+        "merged": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/build/intermediates/res/merged/debug/drawable_rotate.png.flat",
+        "source": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/res/drawable/rotate.png"
+    },
+    {
+        "merged": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/build/intermediates/res/merged/debug/menu_bottom_nav_bar.xml.flat",
+        "source": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/res/menu/bottom_nav_bar.xml"
+    }
+]
