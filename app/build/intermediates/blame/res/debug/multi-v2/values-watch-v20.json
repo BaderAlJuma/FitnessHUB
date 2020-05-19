@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml",
+            "outputFile": "/Users/zainabbousakher/Documents/GitHub/FitnessHUB/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml",
             "map": [
                 {
                     "source": "/Users/zainabbousakher/.gradle/caches/transforms-2/files-2.1/5becd67d34fcbceea29c723da507aed6/jetified-play-services-auth-17.0.0/res/values-watch-v20/values.xml",

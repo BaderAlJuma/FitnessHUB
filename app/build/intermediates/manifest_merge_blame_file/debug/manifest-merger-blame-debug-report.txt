@@ -6,13 +6,13 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="24"
-8-->/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/AndroidManifest.xml
+8-->/Users/zainabbousakher/Documents/GitHub/FitnessHUB/app/src/main/AndroidManifest.xml
 9        android:targetSdkVersion="29" />
-9-->/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/AndroidManifest.xml
+9-->/Users/zainabbousakher/Documents/GitHub/FitnessHUB/app/src/main/AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/AndroidManifest.xml:6:5-67
-11-->/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/AndroidManifest.xml:6:22-64
+11-->/Users/zainabbousakher/Documents/GitHub/FitnessHUB/app/src/main/AndroidManifest.xml:6:5-67
+11-->/Users/zainabbousakher/Documents/GitHub/FitnessHUB/app/src/main/AndroidManifest.xml:6:22-64
 12
 13    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
 14    <!-- <uses-sdk android:minSdkVersion="14" /> -->
@@ -21,63 +21,63 @@
 15-->[com.google.firebase:firebase-firestore:21.4.1] /Users/zainabbousakher/.gradle/caches/transforms-2/files-2.1/13154fab687b288ed9aef6894a4a20b6/jetified-firebase-firestore-21.4.1/AndroidManifest.xml:13:22-76
 16
 17    <application
-17-->/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/AndroidManifest.xml:8:5-32:19
+17-->/Users/zainabbousakher/Documents/GitHub/FitnessHUB/app/src/main/AndroidManifest.xml:8:5-32:19
 18        android:allowBackup="true"
-18-->/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/AndroidManifest.xml:9:9-35
+18-->/Users/zainabbousakher/Documents/GitHub/FitnessHUB/app/src/main/AndroidManifest.xml:9:9-35
 19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 19-->[androidx.core:core:1.1.0] /Users/zainabbousakher/.gradle/caches/transforms-2/files-2.1/f961a727fd6ff1bec6d760c391cc6822/core-1.1.0/AndroidManifest.xml:24:18-86
 20        android:debuggable="true"
 21        android:extractNativeLibs="false"
 22        android:icon="@mipmap/ic_launcher"
-22-->/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/AndroidManifest.xml:10:9-43
+22-->/Users/zainabbousakher/Documents/GitHub/FitnessHUB/app/src/main/AndroidManifest.xml:10:9-43
 23        android:label="@string/app_name"
-23-->/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/AndroidManifest.xml:11:9-41
+23-->/Users/zainabbousakher/Documents/GitHub/FitnessHUB/app/src/main/AndroidManifest.xml:11:9-41
 24        android:roundIcon="@mipmap/ic_launcher_round"
-24-->/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/AndroidManifest.xml:12:9-54
+24-->/Users/zainabbousakher/Documents/GitHub/FitnessHUB/app/src/main/AndroidManifest.xml:12:9-54
 25        android:supportsRtl="true"
-25-->/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/AndroidManifest.xml:13:9-35
+25-->/Users/zainabbousakher/Documents/GitHub/FitnessHUB/app/src/main/AndroidManifest.xml:13:9-35
 26        android:testOnly="true"
 27        android:theme="@style/AppTheme" >
-27-->/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/AndroidManifest.xml:14:9-40
+27-->/Users/zainabbousakher/Documents/GitHub/FitnessHUB/app/src/main/AndroidManifest.xml:14:9-40
 28        <activity android:name="com.example.fitnesshubdemo.ViewRecipeDetails" />
-28-->/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/AndroidManifest.xml:16:9-64
-28-->/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/AndroidManifest.xml:16:19-52
+28-->/Users/zainabbousakher/Documents/GitHub/FitnessHUB/app/src/main/AndroidManifest.xml:16:9-64
+28-->/Users/zainabbousakher/Documents/GitHub/FitnessHUB/app/src/main/AndroidManifest.xml:16:19-52
 29        <activity android:name="com.example.fitnesshubdemo.SearchRecipeActivity" />
-29-->/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/AndroidManifest.xml:17:9-58
-29-->/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/AndroidManifest.xml:17:19-55
+29-->/Users/zainabbousakher/Documents/GitHub/FitnessHUB/app/src/main/AndroidManifest.xml:17:9-58
+29-->/Users/zainabbousakher/Documents/GitHub/FitnessHUB/app/src/main/AndroidManifest.xml:17:19-55
 30        <activity android:name="com.example.fitnesshubdemo.TakingExerciseActivity" />
-30-->/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/AndroidManifest.xml:18:9-60
-30-->/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/AndroidManifest.xml:18:19-57
+30-->/Users/zainabbousakher/Documents/GitHub/FitnessHUB/app/src/main/AndroidManifest.xml:18:9-60
+30-->/Users/zainabbousakher/Documents/GitHub/FitnessHUB/app/src/main/AndroidManifest.xml:18:19-57
 31        <activity android:name="com.example.fitnesshubdemo.ExercisesListActivity" />
-31-->/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/AndroidManifest.xml:19:9-59
-31-->/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/AndroidManifest.xml:19:19-56
+31-->/Users/zainabbousakher/Documents/GitHub/FitnessHUB/app/src/main/AndroidManifest.xml:19:9-59
+31-->/Users/zainabbousakher/Documents/GitHub/FitnessHUB/app/src/main/AndroidManifest.xml:19:19-56
 32        <activity android:name="com.example.fitnesshubdemo.ViewExerciseActivity" />
-32-->/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/AndroidManifest.xml:20:9-58
-32-->/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/AndroidManifest.xml:20:19-55
+32-->/Users/zainabbousakher/Documents/GitHub/FitnessHUB/app/src/main/AndroidManifest.xml:20:9-58
+32-->/Users/zainabbousakher/Documents/GitHub/FitnessHUB/app/src/main/AndroidManifest.xml:20:19-55
 33        <activity android:name="com.example.fitnesshubdemo.ProfileActivity" />
-33-->/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/AndroidManifest.xml:21:9-53
-33-->/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/AndroidManifest.xml:21:19-50
+33-->/Users/zainabbousakher/Documents/GitHub/FitnessHUB/app/src/main/AndroidManifest.xml:21:9-53
+33-->/Users/zainabbousakher/Documents/GitHub/FitnessHUB/app/src/main/AndroidManifest.xml:21:19-50
 34        <activity android:name="com.example.fitnesshubdemo.SignupActivity" />
-34-->/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/AndroidManifest.xml:22:9-52
-34-->/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/AndroidManifest.xml:22:19-49
+34-->/Users/zainabbousakher/Documents/GitHub/FitnessHUB/app/src/main/AndroidManifest.xml:22:9-52
+34-->/Users/zainabbousakher/Documents/GitHub/FitnessHUB/app/src/main/AndroidManifest.xml:22:19-49
 35        <activity android:name="com.example.fitnesshubdemo.SigninActivity" />
-35-->/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/AndroidManifest.xml:23:9-52
-35-->/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/AndroidManifest.xml:23:19-49
+35-->/Users/zainabbousakher/Documents/GitHub/FitnessHUB/app/src/main/AndroidManifest.xml:23:9-52
+35-->/Users/zainabbousakher/Documents/GitHub/FitnessHUB/app/src/main/AndroidManifest.xml:23:19-49
 36        <activity android:name="com.example.fitnesshubdemo.LandingActivity" />
-36-->/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/AndroidManifest.xml:24:9-53
-36-->/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/AndroidManifest.xml:24:19-50
+36-->/Users/zainabbousakher/Documents/GitHub/FitnessHUB/app/src/main/AndroidManifest.xml:24:9-53
+36-->/Users/zainabbousakher/Documents/GitHub/FitnessHUB/app/src/main/AndroidManifest.xml:24:19-50
 37        <activity android:name="com.example.fitnesshubdemo.MainActivity" >
-37-->/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/AndroidManifest.xml:25:9-31:20
-37-->/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/AndroidManifest.xml:25:19-47
+37-->/Users/zainabbousakher/Documents/GitHub/FitnessHUB/app/src/main/AndroidManifest.xml:25:9-31:20
+37-->/Users/zainabbousakher/Documents/GitHub/FitnessHUB/app/src/main/AndroidManifest.xml:25:19-47
 38            <intent-filter>
-38-->/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/AndroidManifest.xml:26:13-30:29
+38-->/Users/zainabbousakher/Documents/GitHub/FitnessHUB/app/src/main/AndroidManifest.xml:26:13-30:29
 39                <action android:name="android.intent.action.MAIN" />
-39-->/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/AndroidManifest.xml:27:17-69
-39-->/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/AndroidManifest.xml:27:25-66
+39-->/Users/zainabbousakher/Documents/GitHub/FitnessHUB/app/src/main/AndroidManifest.xml:27:17-69
+39-->/Users/zainabbousakher/Documents/GitHub/FitnessHUB/app/src/main/AndroidManifest.xml:27:25-66
 40
 41                <category android:name="android.intent.category.LAUNCHER" />
-41-->/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/AndroidManifest.xml:29:17-77
-41-->/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/src/main/AndroidManifest.xml:29:27-74
+41-->/Users/zainabbousakher/Documents/GitHub/FitnessHUB/app/src/main/AndroidManifest.xml:29:17-77
+41-->/Users/zainabbousakher/Documents/GitHub/FitnessHUB/app/src/main/AndroidManifest.xml:29:27-74
 42            </intent-filter>
 43        </activity>
 44        <activity

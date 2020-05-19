@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hi/values-hi.xml",
+            "outputFile": "/Users/zainabbousakher/Documents/GitHub/FitnessHUB/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hi/values-hi.xml",
             "map": [
                 {
                     "source": "/Users/zainabbousakher/.gradle/caches/transforms-2/files-2.1/f720b24cc490c109d50c0a0a1e6bf186/jetified-play-services-basement-17.0.0/res/values-hi/values.xml",

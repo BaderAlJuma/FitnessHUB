@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/zainabbousakher/Desktop/FitnessHUBDemo2/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lt/values-lt.xml",
+            "outputFile": "/Users/zainabbousakher/Documents/GitHub/FitnessHUB/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lt/values-lt.xml",
             "map": [
                 {
                     "source": "/Users/zainabbousakher/.gradle/caches/transforms-2/files-2.1/72755d8593c3ca1ed00b11907b10c688/appcompat-1.1.0/res/values-lt/values-lt.xml",

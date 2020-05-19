@@ -27,10 +27,10 @@ public class LandingActivity extends AppCompatActivity {
         dotsIndicator = findViewById(R.id.dots_indicator);
         adapter = new ViewPageAdapter(getSupportFragmentManager());
         adapter.addFragment(new LandingPageImageFragment(R.drawable.landing_page_1));
-        adapter.addFragment(new LandingPageImageFragment(R.drawable.landing_page_1));
-        adapter.addFragment(new LandingPageImageFragment(R.drawable.landing_page_1));
-        adapter.addFragment(new LandingPageImageFragment(R.drawable.landing_page_1));
-        adapter.addFragment(new LandingPageImageFragment(R.drawable.landing_page_1));
+        adapter.addFragment(new LandingPageImageFragment(R.drawable.img2));
+        adapter.addFragment(new LandingPageImageFragment(R.drawable.img3));
+        adapter.addFragment(new LandingPageImageFragment(R.drawable.img4));
+        adapter.addFragment(new LandingPageImageFragment(R.drawable.img5));
         viewPager.setAdapter(adapter);
         dotsIndicator.setViewPager(viewPager);
 

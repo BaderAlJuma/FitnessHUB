@@ -1430,6 +1430,10 @@ drawable ic_mtrl_checked_circle
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
+drawable img2
+drawable img3
+drawable img4
+drawable img5
 drawable landing_page_1
 drawable mtrl_dialog_background
 drawable mtrl_dropdown_arrow
